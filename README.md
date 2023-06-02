@@ -5,7 +5,7 @@
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Test](https://github.com/joshmadakor1/Algorithms-Practice)
 
-![LeetCode Stats](https://leetcode.card.workers.dev/milk88man?theme=dark&font=baloo&extension=activity)
+![LeetCode Stats](https://leetcode.card.workers.dev/mflanagan?theme=dark&font=baloo&extension=activity)
 
 <h2> 🤳 Connect with me:</h2>
 
