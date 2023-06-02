@@ -5,7 +5,7 @@ As a new front-end programmer, I'm excited to showcase my skills and projects re
 <h2>👨‍💻 Coding Projects:</h2>
 
 - <b>Apps/Games<b>
-  - [Memory Card Game]
+  - [Memory Card Game](https://github.com/mflanagan924/memory-card-game)
   - [Tenzies Plus]
   - [Word Frequency App]
   - [Chronometer]
