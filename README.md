@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Coding Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Test](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>HTML/CSS</b>
+  - [Generic Website](https://github.com/mflanagan924/generic-website)
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/mflanagan?theme=dark&font=baloo&extension=activity)
 
