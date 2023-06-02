@@ -2,7 +2,12 @@
 
 <h2>👨‍💻 Coding Projects:</h2>
 
-- <b>HTML/CSS</b>
+- <b>Apps/Games<b>
+  - [Memory Card Game]
+  - [Tenzies Plus]
+  - [Word Frequency App]
+  - [Chronometer]
+- <b>Websites</b>
   - [Generic Website](https://github.com/mflanagan924/generic-website)
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/mflanagan?theme=dark&font=baloo&extension=activity)
