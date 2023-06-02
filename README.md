@@ -11,7 +11,9 @@ As a new front-end programmer, I'm excited to showcase my skills and projects re
   - [Chronometer]
 - <b>Websites</b>
   - [Generic Website](https://github.com/mflanagan924/generic-website)
-
+  
+ <h2>🌱 I'm currently learning: </h2>
+  
 ![LeetCode Stats](https://leetcode.card.workers.dev/mflanagan?theme=dark&font=baloo&extension=activity)
 
 <h2> 🤳 Connect with me:</h2>
