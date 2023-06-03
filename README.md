@@ -6,7 +6,7 @@ As a new front-end programmer, I'm excited to showcase my skills and projects re
 
 - <b>Apps/Games<b>
   - [Memory Card Game](https://github.com/mflanagan924/memory-card-game)
-  - [Tenzies Plus]
+  - [Tenzies Plus](https://github.com/mflanagan924/Tenzies-Plus)
   - [Word Frequency App](https://github.com/mflanagan924/word-frequency)
   - [Chronometer](https://github.com/mflanagan924/Chrono-Meter)
 - <b>Websites</b>
