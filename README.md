@@ -9,6 +9,7 @@ As a new front-end programmer, I'm excited to showcase my skills and projects re
   - [Tenzies Plus](https://github.com/mflanagan924/Tenzies-Plus)
   - [Word Frequency App](https://github.com/mflanagan924/word-frequency)
   - [Chronometer](https://github.com/mflanagan924/Chrono-Meter)
+  - [Planting Calendar App](https://github.com/mflanagan924/planting-calendar)
 - <b>Websites</b>
   - [Generic Website](https://github.com/mflanagan924/generic-website)
   
