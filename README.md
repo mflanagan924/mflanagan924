@@ -13,7 +13,7 @@ As a new front-end programmer, I'm excited to showcase my skills and projects re
 - <b>Websites</b>
   - [Generic Website](https://github.com/mflanagan924/generic-website)
 - <b>Email Templates</b>
-  - [Email Template 1]
+  - [Email Template 1](https://github.com/mflanagan924/email-template-1)
   
  <h2>🌱 I'm currently learning: </h2>
   
