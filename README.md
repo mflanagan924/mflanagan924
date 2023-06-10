@@ -12,6 +12,8 @@ As a new front-end programmer, I'm excited to showcase my skills and projects re
   - [Planting Calendar App](https://github.com/mflanagan924/planting-calendar)
 - <b>Websites</b>
   - [Generic Website](https://github.com/mflanagan924/generic-website)
+- <b>Email Templates</b>
+  - [Email Template 1]
   
  <h2>🌱 I'm currently learning: </h2>
   
