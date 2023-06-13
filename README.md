@@ -16,6 +16,7 @@ As a new front-end programmer, I'm excited to showcase my skills and projects re
   - [Email Template 1](https://github.com/mflanagan924/email-template-1)
   - [Email Template 2](https://github.com/mflanagan924/email-template-2)
   - [Email Template 3](https://github.com/mflanagan924/email-template-3)
+  - [Email Template 4](https://github.com/mflanagan924/email-template-4)
   
  <h2>🌱 I'm currently learning: </h2>
   
