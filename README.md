@@ -1,6 +1,6 @@
 <h1>Hi, I'm Michael!</h1>
 
-As a new front-end programmer, I'm excited to showcase my skills and projects related to HTML, CSS, D3, JavaScript, and React. Throughout my coding journey, I have immersed myself in these languages and frameworks to create visually appealing websites, interactive data visualizations, and dynamic user interfaces. In this portfolio, you will find a collection of my projects that demonstrate my understanding of front-end development principles and my ability to bring ideas to life through code.
+As a new front-end programmer, I'm excited to showcase my skills and projects related to HTML, CSS, D3, JavaScript, Golang, and React. Throughout my coding journey, I have immersed myself in these languages and frameworks to create visually appealing websites, interactive data visualizations, and dynamic user interfaces. In this portfolio, you will find a collection of my projects that demonstrate my understanding of front-end development principles and my ability to bring ideas to life through code.
 
 <h2>👨‍💻 Coding Projects:</h2>
 
